@@ -1,10 +1,9 @@
 # 12306-Train-ticket-query
 
-
-Usage:
+## Usage:
     tickets [-gdtkz] <from> <to> <date>
 
-Options:
+## Options:
     -h,--help   显示帮助菜单
     -g          高铁
     -d          动车
@@ -12,7 +11,7 @@ Options:
     -k          快速
     -z          直达
 
-Example:
+## Example:<br>
     tickets 北京 上海 2016-10-10
     tickets -dg 成都 南京 2016-10-10
 
